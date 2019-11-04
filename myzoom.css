@@ -1,0 +1,8 @@
+.uzoom {
+	position: absolute;
+	background-size: 500px;
+	width: 150px;
+	height: 150px;
+	border: 2px solid;
+	z-index: 999999;
+}
